@@ -1,10 +1,10 @@
-# SolarCaskets Collection Metadata
+# Solarcaskets Collection Metadata
 
 This repository contains the complete metadata collection for **SolarCaskets**  a NFT project featuring 5,000 unique digital caskets built on the Solana blockchain using the revolutionary **Helios400 token standard**.
 
 ## What is SolarCaskets?
 
-SolarCaskets represents the first implementation of the Helios400 token standard, which enables seamless conversion between SPL tokens and NFTs. Each casket can transform from a tradeable token to a unique collectible and back again, providing unprecedented flexibility for holders.
+Solarcaskets represents the first implementation of the Helios400 token standard, which enables seamless conversion between SPL tokens and NFTs. Each casket can transform from a tradeable token to a unique collectible and back again, providing unprecedented flexibility for holders.
 
 ## Collection Preview
 
