@@ -1,0 +1,43 @@
+{
+  "name": "Gold Casket #631",
+  "symbol": "SLR",
+  "description": "5000 SolarCaskets powered by the Helios400 token standard on Solana, featuring SPL token-to-NFT conversion mechanisms",
+  "external_url": "https://solarcaskets.io",
+  "seller_fee_basis_points": 0,
+  "image": "https://bafybeiagelll32gmfssprp32nfjpfaogfguxib7yysisskzrbzemel3tg4.ipfs.w3s.link/gold_631.gif",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "box",
+      "value": "gold"
+    },
+    {
+      "trait_type": "locks",
+      "value": "golden lock"
+    },
+    {
+      "trait_type": "light",
+      "value": "no light"
+    },
+    {
+      "trait_type": "particles",
+      "value": "white particles"
+    },
+    {
+      "trait_type": "border",
+      "value": "dark blue border"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeiagelll32gmfssprp32nfjpfaogfguxib7yysisskzrbzemel3tg4.ipfs.w3s.link/gold_631.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image"
+  }
+}
