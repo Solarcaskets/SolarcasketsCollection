@@ -1,6 +1,6 @@
 # SolarCaskets Collection Metadata
 
-This repository contains the complete metadata collection for **SolarCaskets** - a groundbreaking NFT project featuring 5,000 unique digital caskets built on the Solana blockchain using the revolutionary **Helios400 token standard**.
+This repository contains the complete metadata collection for **SolarCaskets**  a NFT project featuring 5,000 unique digital caskets built on the Solana blockchain using the revolutionary **Helios400 token standard**.
 
 ## What is SolarCaskets?
 
