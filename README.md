@@ -1,8 +1,8 @@
 # Solarcaskets Collection Metadata
 
-This repository contains the complete metadata collection for **SolarCaskets**  a NFT project featuring 5,000 unique digital caskets built on the Solana blockchain using the revolutionary **Helios400 token standard**.
+This repository contains the complete metadata collection for **Solarcaskets**  a NFT project featuring 5,000 unique digital caskets built on the Solana blockchain using the revolutionary **Helios400 token standard**.
 
-## What is SolarCaskets?
+## What is Solarcaskets?
 
 Solarcaskets represents the first implementation of the Helios400 token standard, which enables seamless conversion between SPL tokens and NFTs. Each casket can transform from a tradeable token to a unique collectible and back again, providing unprecedented flexibility for holders.
 
@@ -29,7 +29,7 @@ Each NFT follows the Solana metadata standard and includes:
 - **Name**: Individual casket identifier (e.g., "Diamond Casket #1")
 - **Description**: Collection overview and technical details
 - **Image**: IPFS-hosted animated GIF artwork
-- **External URL**: Links to the official SolarCaskets website
+- **External URL**: Links to the official Solarcaskets website
 
 ### Trait Attributes
 Each casket has 6 randomized traits that determine its visual appearance and rarity:
